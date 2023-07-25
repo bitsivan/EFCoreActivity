@@ -1,0 +1,12 @@
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\bin\Debug\net6.0\InventoryModels.deps.json
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\bin\Debug\net6.0\InventoryModels.dll
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\bin\Debug\net6.0\InventoryModels.pdb
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\obj\Debug\net6.0\InventoryModels.csproj.AssemblyReference.cache
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\obj\Debug\net6.0\InventoryModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\obj\Debug\net6.0\InventoryModels.AssemblyInfoInputs.cache
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\obj\Debug\net6.0\InventoryModels.AssemblyInfo.cs
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\obj\Debug\net6.0\InventoryModels.csproj.CoreCompileInputs.cache
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\obj\Debug\net6.0\InventoryModels.dll
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\obj\Debug\net6.0\refint\InventoryModels.dll
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\obj\Debug\net6.0\InventoryModels.pdb
+C:\FullStack\Net\EFCore6_Project\Activity2\InventoryModels\obj\Debug\net6.0\ref\InventoryModels.dll
